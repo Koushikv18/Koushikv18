@@ -22,11 +22,17 @@ Computer Science student focused on AI/ML — building practical projects across
 | ML / Data | Jupyter, applied ML fundamentals |
 | Web | TypeScript |
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushikv18&layout=compact&hide_border=true&hide_title=true&langs_count=8" alt="Most used languages" height="150"/>
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</p>
 
-<sub>The card above is generated live by GitHub's stats API from your actual repos every time it's viewed — no workflow or script required, nothing to set up beyond having this README in place. The table above it is the set of languages/tools you know but that this API can't detect from repo activity alone (fundamentals, SQL, etc.) — update that one by hand when it's out of date.</sub>
+<sub>These are static badges from shields.io, a stable, widely-used service — unlike the github-readme-stats.vercel.app cards, they won't randomly stop rendering. The tradeoff is they don't auto-update; edit the row above by hand if your stack changes.</sub>
 
 ---
 
